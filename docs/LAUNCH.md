@@ -40,3 +40,27 @@ After publication, record dated star counts and GitHub Traffic views/unique visi
 ## فارسی
 
 ریپو و نسخهٔ ۱٫۰٫۰ منتشر شدند و آزمون‌های گیت‌هاب روی شاخهٔ اصلی و تگ نسخه گذشتند. پیشنهاد شمارهٔ ۵ برای فهرست devanasolver ارسال شده و هنوز پذیرفته نشده است. به VoltAgent به دلیل شرط سابقهٔ استفاده، پیشنهاد ارسال نشد. شمار اولیهٔ استار صفر بود؛ بازدید اندازه‌گیری نشده و ادعای رشد نداریم. خرید استار، بازدید مصنوعی و پیام انبوه انجام نمی‌شود.
+
+
+## Additional outreach — 2026-10-26
+
+| Venue | Action | Verified outcome |
+|---|---|---|
+| JPeetz/agent-skills | Scope proposal with a Persian meaning-preservation example and author/AI-assistance disclosure | Open issue: https://github.com/JPeetz/agent-skills/issues/7 |
+| MrrHat/Share-your-Work | Project introduction in the explicitly permitted Share your Work category, with preview and targeted feedback questions | Published: https://github.com/MrrHat/Share-your-Work/discussions/10 |
+| Skillstore | Direct repository submission with full-package context and optional-tool requirements | Processing: https://skillstore.io/submissions/27b70768-f473-48bd-8443-b064b4c0cf0a |
+
+These are three new actions beyond the earlier devanasolver PR. A published discussion, an open scope proposal and a processing submission are different outcomes; none proves acceptance, adoption, new stars or referral traffic.
+
+### Venue screening
+
+- OpenAgentSkill: repository and direct-file lookups returned validation errors; no submission receipt was obtained.
+- skillsdir.dev: its submission link points to a GitHub repository that could not be resolved; no issue was posted there.
+- travisvn/awesome-claude-skills: excluded under its star threshold and prohibition on AI-assisted submissions.
+- VoltAgent: excluded under its requirement for established community usage.
+- Codex and Persian-list entry drafts were prepared but not submitted in this wave; no additional listing or PR is claimed.
+
+## معرفی‌های تازه — فارسی
+
+سه اقدام تازه انجام شد: پیشنهادِ کاربرد در JPeetz، معرفی عمومی در Share your Work و ثبت مستقیم در Skillstore. دو مورد اول قابل مشاهده‌اند؛ سومی در حال پردازش است. پذیرش در مجموعه‌ها، انتشار نهایی فروشگاه و افزایش استار یا بازدید هنوز نتیجهٔ اثبات‌شدهٔ این اقدام‌ها نیستند. نویسنده بودن و استفاده از هوش مصنوعی در معرفی‌ها روشن شده است.
+
