@@ -58,9 +58,23 @@ These are three new actions beyond the earlier devanasolver PR. A published disc
 - skillsdir.dev: its submission link points to a GitHub repository that could not be resolved; no issue was posted there.
 - travisvn/awesome-claude-skills: excluded under its star threshold and prohibition on AI-assisted submissions.
 - VoltAgent: excluded under its requirement for established community usage.
-- Codex and Persian-list entry drafts were prepared but not submitted in this wave; no additional listing or PR is claimed.
+- Codex and Persian-list drafts were submitted in the follow-up below after the two forks were authorized.
 
 ## معرفی‌های تازه — فارسی
 
 سه اقدام تازه انجام شد: پیشنهادِ کاربرد در JPeetz، معرفی عمومی در Share your Work و ثبت مستقیم در Skillstore. دو مورد اول قابل مشاهده‌اند؛ سومی در حال پردازش است. پذیرش در مجموعه‌ها، انتشار نهایی فروشگاه و افزایش استار یا بازدید هنوز نتیجهٔ اثبات‌شدهٔ این اقدام‌ها نیستند. نویسنده بودن و استفاده از هوش مصنوعی در معرفی‌ها روشن شده است.
+
+
+## Listing submissions — follow-up
+
+Both authorized forks were created under sinadwm1. Fresh duplicate searches found no existing Write Natural proposal in either upstream repository. Only README.md changed in each fork: one relevant entry, plus end-of-file newline formatting.
+
+| Upstream | Fork | Submitted PR | State at verification |
+|---|---|---|---|
+| composio-community/awesome-codex-skills | https://github.com/sinadwm1/awesome-codex-skills | https://github.com/composio-community/awesome-codex-skills/pull/379 | Open; no reviews |
+| MohammadHeydari/Awesome-Persian-LLM | https://github.com/sinadwm1/Awesome-Persian-LLM | https://github.com/MohammadHeydari/Awesome-Persian-LLM/pull/3 | Open; no reviews |
+
+Each proposal identifies the author and discloses AI assistance. The Codex entry is in Communication & Writing; the Persian resource entry is under Repos. Both diffs were checked before submission. These are requests for inclusion, not accepted listings or evidence of increased stars, traffic or adoption.
+
+دو فورک ساخته شد و پیشنهادهای شمارهٔ ۳۷۹ برای فهرست کدکس و شمارهٔ ۳ برای منابع LLM فارسی ارسال شدند. هر دو هنگام بررسی باز بودند و هنوز نظری از مدیران نداشتند. پذیرش در فهرست‌ها و افزایش استار یا بازدید تأیید نشده است.
 
